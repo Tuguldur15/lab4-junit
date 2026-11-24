@@ -2,8 +2,21 @@
 
 - **Оюутны нэр:** Т.Төгөлдөр
 - **Оюутны код:** [B242270050]
-- **Java хувилбар:** `25.0.2` (`mvn -version` дээр `27.0.1.0.3`, төсөл `release 17`)
-- **Maven хувилбар:** `Apache Maven 3.10.0`
+- **Тестийн методын тоо:** `8` (параметржүүлсэн `@CsvSource` тестүүдийн мөрүүдийг оролцуулан нийт `17` тест тохиолдол)
+
+### `java -version` бүтэн гаралт
+
+java version "25.0.2" 2026-01-20 LTS
+Java(TM) SE Runtime Environment (build 25.0.2+10-LTS-69)
+Java HotSpot(TM) 64-Bit Server VM (build 25.0.2+10-LTS-69, mixed mode, sharing)
+
+### `mvn -version` бүтэн гаралт
+
+Apache Maven 3.10.0 (c43a36b8d67be7e0805a411bc0898af1a51f5472)
+Maven home: /opt/homebrew/Cellar/maven/3.10.0/libexec
+Java version: 27.0.1.0.3, vendor: Homebrew, runtime: /opt/homebrew/Cellar/openjdk/27.0.1.0.3/libexec/openjdk.jdk/Contents/Home
+Default locale: en_MN, platform encoding: UTF-8, time zone: Asia/Ulaanbaatar
+OS name: "mac os x", version: "26.0", arch: "aarch64", family: "mac"
 
 ---
 
